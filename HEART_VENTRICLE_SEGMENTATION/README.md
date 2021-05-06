@@ -1,4 +1,7 @@
-DATASET :
+# UNET MODEL:
+                      ![image](https://user-images.githubusercontent.com/72727518/117278675-97c03300-ae7e-11eb-87f5-7d85ad45ebe1.png)
+
+# DATASET :
 
 FOR THE DATASET DRIVE LINK HAS BEEN SHARED
 

@@ -1,5 +1,5 @@
 # UNET MODEL:
-                     ![image](https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png)
+![image](https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png))
 
 
 # DATASET :

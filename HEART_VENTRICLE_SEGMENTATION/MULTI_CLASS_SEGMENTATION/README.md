@@ -1,4 +1,5 @@
 # DATA AUGMENTATION:
+ALBUMENTATIONS library is used for image augmentation,which applies a no. of image transformations like Horizontal Flip, Vertical Flip, Rotate, etc.
 
 # CREATING MASKS:
 The given segimages directory contains mask images. But PYTORCH requires the target image to have a pixel value which denotes a class. For example if there are 4 classes each pixel must have either 0,1,2 & 3.

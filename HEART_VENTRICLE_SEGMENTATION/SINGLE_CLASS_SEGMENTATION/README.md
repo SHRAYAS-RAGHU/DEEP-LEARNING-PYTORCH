@@ -1,3 +1,9 @@
+# DATA AUGMENTATION:
+ALBUMENTATIONS library is used for image augmentation,which applies a no. of image transformations like Horizontal Flip, Vertical Flip, Rotate, etc.
+
+# MASKING IMAGES:
+Segimages contains masked images which contains 4 classes. But here we are about to do single class segmentation so left ventricle is alone segmented using inrange() function of CV2 library.
+
 # MODEL 
 - PRETRAINED MODEL HAS BEEN INCLUDED TO DIRECTLY TEST THE IMAGES - https://drive.google.com/file/d/1QDCsum1VqDyj3PZUrkdy4-daZ_M-Pu_X/view?usp=sharing
 

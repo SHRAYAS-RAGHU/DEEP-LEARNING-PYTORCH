@@ -5,16 +5,16 @@ Each pixel value is classified into one of the two or many classes. **2D-UNET** 
 ## BINARY SEGMENTATION:
 
 Each pixel value is classified into one of the two classes (Background and left-ventricle).
-**Sigmoid** activation is applied to the last layer and BCE loss is used for backpropagation and training.
+**Sigmoid** activation is applied to the last layer and **BCE loss** is used for backpropagation and training.
 
 ## MULTI-CLASS SEGMENTATION:
 
-Each pixel value is classified into one of the four classes (Background, right-ventricle, mycardium and left-ventricle).
+Each pixel value is classified into one of the four classes (Background, right-ventricle, myocardium and left-ventricle).
 **Log_Softmax** activation is applied to the last layer and **NLL loss** is used for backpropagation and training.
-PYTORCH has Cross-Entropy loss function that applies **Log_Softmax** activation and **NLL loss** is apllied automatically.
+PYTORCH has **Cross-Entropy loss** function that applies **Log_Softmax** activation and **NLL loss**.
 
 # UNET MODEL:
-![image](https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png))
+![image](https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png)
 
 # DATASET :
 

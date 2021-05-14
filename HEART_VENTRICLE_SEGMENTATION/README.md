@@ -30,4 +30,4 @@ FOR THE DATASET DRIVE LINK HAS BEEN SHARED
 - CONTAINS MASK OF IMAGES THAT IS TO BE USED AS TARGET - https://drive.google.com/file/d/1-5Nd_mCDRRqTFqmAUOtWapi6NSFtgKR9/view?usp=sharing
 
 # CREDITS : 
-Aladdin Pearson - UNET MODEL PAPER TO CODE
+Aladdin Persson - https://youtu.be/IHq1t7NxS8k

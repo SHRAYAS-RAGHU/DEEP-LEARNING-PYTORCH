@@ -14,8 +14,9 @@ Each pixel value is classified into one of the four classes (Background, right-v
 PYTORCH has **Cross-Entropy loss** function that applies **Log_Softmax** activation and **NLL loss**.
 
 # UNET MODEL:
-![image](https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png)
-
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png">
+</p>
 # DATASET :
 
 Simplified ACDC Short axis cardiac MRI is used as dataset.

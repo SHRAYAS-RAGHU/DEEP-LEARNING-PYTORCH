@@ -12,9 +12,9 @@ Model is tested with images from the given dataset that have not been used for t
 
 For verifying robustness of the model, a random Short axis Cardiac MRI image was taken from the 
 internet and it was segmented. visual results appear to be appealing.
-
-![image](https://user-images.githubusercontent.com/72727518/117295993-28ecd500-ae92-11eb-8f03-38b07ada39fa.png)
-
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/72727518/117295993-28ecd500-ae92-11eb-8f03-38b07ada39fa.png" width = "500" height = "300">
+</p>
 With further more of training with various datasets and parameter optimisation the model can be made even accurate.
 
 # USAGE :

@@ -15,8 +15,12 @@ PYTORCH has **Cross-Entropy loss** function that applies **Log_Softmax** activat
 
 # UNET MODEL:
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/72727518/130622507-e5400fb8-78d8-4f1b-8379-56f263b3592b.png">
+<img src = "https://user-images.githubusercontent.com/72727518/130623287-032ad9de-bb91-4fe4-a376-adcc9c17f094.jpg">
 </p>
+                                                                                                                 
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/72727518/130623913-36cc5c7a-7078-47b5-9b47-570b1060fb2f.png">
+</p>                                                                                                              
 # DATASET :
 
 Simplified ACDC Short axis cardiac MRI is used as dataset.

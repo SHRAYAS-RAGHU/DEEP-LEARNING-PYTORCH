@@ -15,7 +15,7 @@ PYTORCH has **Cross-Entropy loss** function that applies **Log_Softmax** activat
 
 # UNET MODEL:
 <p align = "center">
-<img src = "https://user-images.githubusercontent.com/72727518/117279604-7f044d00-ae7f-11eb-90d2-c2809bdaebad.png">
+<img src = "https://user-images.githubusercontent.com/72727518/130622507-e5400fb8-78d8-4f1b-8379-56f263b3592b.png">
 </p>
 # DATASET :
 
